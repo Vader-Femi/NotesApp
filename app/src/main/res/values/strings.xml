@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="search_here">Search here....</string>
+    <string name="clear">clear</string>
+    <string name="no_data">No_data</string>
+    <string name="add_note">Add Note</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="edited_on">Edited on: %1$s</string>
+    <string name="appbar_scrolling_view_behaviour">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="my_notes">My Notes</string>
+
+</resources>
